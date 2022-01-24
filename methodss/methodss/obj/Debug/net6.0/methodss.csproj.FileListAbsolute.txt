@@ -1,0 +1,15 @@
+C:\Users\kbrak\OneDrive\Masaüstü\COURSES\c#\methodss\methodss\bin\Debug\net6.0\methodss.exe
+C:\Users\kbrak\OneDrive\Masaüstü\COURSES\c#\methodss\methodss\bin\Debug\net6.0\methodss.deps.json
+C:\Users\kbrak\OneDrive\Masaüstü\COURSES\c#\methodss\methodss\bin\Debug\net6.0\methodss.runtimeconfig.json
+C:\Users\kbrak\OneDrive\Masaüstü\COURSES\c#\methodss\methodss\bin\Debug\net6.0\methodss.dll
+C:\Users\kbrak\OneDrive\Masaüstü\COURSES\c#\methodss\methodss\bin\Debug\net6.0\ref\methodss.dll
+C:\Users\kbrak\OneDrive\Masaüstü\COURSES\c#\methodss\methodss\bin\Debug\net6.0\methodss.pdb
+C:\Users\kbrak\OneDrive\Masaüstü\COURSES\c#\methodss\methodss\obj\Debug\net6.0\methodss.csproj.AssemblyReference.cache
+C:\Users\kbrak\OneDrive\Masaüstü\COURSES\c#\methodss\methodss\obj\Debug\net6.0\methodss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbrak\OneDrive\Masaüstü\COURSES\c#\methodss\methodss\obj\Debug\net6.0\methodss.AssemblyInfoInputs.cache
+C:\Users\kbrak\OneDrive\Masaüstü\COURSES\c#\methodss\methodss\obj\Debug\net6.0\methodss.AssemblyInfo.cs
+C:\Users\kbrak\OneDrive\Masaüstü\COURSES\c#\methodss\methodss\obj\Debug\net6.0\methodss.csproj.CoreCompileInputs.cache
+C:\Users\kbrak\OneDrive\Masaüstü\COURSES\c#\methodss\methodss\obj\Debug\net6.0\methodss.dll
+C:\Users\kbrak\OneDrive\Masaüstü\COURSES\c#\methodss\methodss\obj\Debug\net6.0\ref\methodss.dll
+C:\Users\kbrak\OneDrive\Masaüstü\COURSES\c#\methodss\methodss\obj\Debug\net6.0\methodss.pdb
+C:\Users\kbrak\OneDrive\Masaüstü\COURSES\c#\methodss\methodss\obj\Debug\net6.0\methodss.genruntimeconfig.cache
